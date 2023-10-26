@@ -1,0 +1,5 @@
+- The observed dots on the visualized plot became non-contiguous to continuous as the number of data frames (or population) increased. As the dots become continuous, the observed points become closer to the estimated linear curve as well.
+
+- There had been a visually dynamic increase in the plot for 50 rows, however, this was a non-dynamic continuous plot when seen in the long term. From the plot for the whole data frame, the data makes an increase around day 100 for the first time and gradually increases with the estimate line. 
+
+From the observation, it could be said that the number of data frames affects the accuracy of the estimated plot.
