@@ -1,0 +1,28 @@
+- Turn in the video by Friday at 3:59 PM
+- NOT accepting videos if it's submitted after 4 pm
+- If you use a drive link, make sure to set the share properly
+- If recorded on Mac, it does not play well on Windows. Test the video on another PC before sending
+- At least one person attends the class
+
+Take notes on the games
+Discussion post of your group to do a brief postmortem of your project(what worked, what didn't, what you would do differently)
+This will not be due until Sunday
+
+Student choice awards
+
+3 minutes long -20 points
+your video doesn't show gameplay -30 points
+your recorded gameplay is clearly in Unity Editor Play Mode -10 points
+your video doesn't show your optional challenges -10 points
+your video doesn't show your juicy interactions
+your video doesn't show your menus and win/lose stale
+you make your video feel like a game trailer +10 points
+
+Extra Credit Opportunities:
+due until the end of next Tuesday
+Personal;
+- Juice Assignment Peer Reviews(leave comments) +20 points
+- Make a tutorial class covering something you've learned +50 points (could be a blog post style as well)
+As a team;
+- Turn your Postmortem into a blog post (itch.io game page is a good place) +20 points
+- Run a playtest and make a blog post about results +20 points
